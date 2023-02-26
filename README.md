@@ -1,2 +1,2 @@
-﻿# Checkers
+﻿# Enjoy my checkers game !
  
